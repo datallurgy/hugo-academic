@@ -9,8 +9,8 @@ interests:
   - Information Retrieval
 social:
   - icon: browser
-    icon_pack: fas
-    link: /#contact
+    icon_pack: far
+    link: https://www.datallurgy.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
