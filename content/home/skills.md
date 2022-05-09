@@ -18,7 +18,7 @@ feature:
   icon_pack: fas
   name: Machine Learning
 - description:
-  icon: magnifying-glass-chart
+  icon: magnifying-glass
   icon_pack: fas
   name: Data Analytics
 - description:
