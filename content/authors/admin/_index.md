@@ -1,6 +1,6 @@
 ---
 title: Allyson Stoll
-role: Professor of Artificial Intelligence
+role: Lead, Technology & Innovation
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -11,32 +11,27 @@ social:
   - icon: window-maximize
     icon_pack: fas
     link: https://www.datallurgy.com
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/datallurgy
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/allyson-stoll/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Teck Resources, Ltd.
+    url: https://www.teck.com
+  - name: The University of British Columbia
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Masters of Data Science
+      institution: University of British Columbia
+      year: 2022
+    - course: BSc in Metallurgical Engineering
+      institution: Missouri University of Science and Technology
+      year: 2011
 email: ""
 superuser: true
 highlight_name: true
