@@ -8,7 +8,7 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 social:
-  - icon: browser
+  - icon: window-maximize
     icon_pack: far
     link: https://www.datallurgy.com
   - icon: twitter
