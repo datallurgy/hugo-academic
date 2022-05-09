@@ -14,6 +14,10 @@ feature:
   icon_pack: fab
   name: Python
 - description:
+  icon: java
+  icon_pack: fab
+  name: Java
+- description:
   icon: laptop-code
   icon_pack: fas
   name: Machine Learning
@@ -21,10 +25,6 @@ feature:
   icon: chart-bar
   icon_pack: fas
   name: Data Analytics
-- description:
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
 - description:
   icon: database
   icon_pack: fas
