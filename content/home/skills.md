@@ -5,17 +5,29 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+- description: 
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 
+  icon: python 
+  icon_pack: fab
+  name: Python
+- description:
+  icon: laptop-code
+  icon_pack: fas
+  name: Machine Learning
+- description:
+  icon: chart-user
+  icon_pack: fas
+  name: Data Analytics
+- description:
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description:
+  icon: display-code
+  icon_pack: fas
+  name: Advanced Process Control
 widget_id: skills
 ---
