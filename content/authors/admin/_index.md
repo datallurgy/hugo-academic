@@ -28,10 +28,10 @@ education:
   courses:
     - course: Masters of Data Science
       institution: University of British Columbia
-      year: 2022
+      year: ""
     - course: BSc in Metallurgical Engineering
       institution: Missouri University of Science and Technology
-      year: 2011
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
