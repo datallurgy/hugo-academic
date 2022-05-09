@@ -23,7 +23,6 @@ social:
 organizations:
   - name: Teck Resources, Ltd.
     url: https://www.teck.com
-  - name: The University of British Columbia
 education:
   courses:
     - course: Masters of Data Science
