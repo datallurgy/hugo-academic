@@ -9,7 +9,7 @@ interests:
   - Information Retrieval
 social:
   - icon: window-maximize
-    icon_pack: far
+    icon_pack: fas
     link: https://www.datallurgy.com
   - icon: twitter
     icon_pack: fab
