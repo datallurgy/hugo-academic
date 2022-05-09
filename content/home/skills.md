@@ -18,7 +18,7 @@ feature:
   icon_pack: fas
   name: Machine Learning
 - description:
-  icon: chart-user
+  icon: magnifying-glass-chart
   icon_pack: fas
   name: Data Analytics
 - description:
@@ -26,7 +26,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: display-code
+  icon: database
   icon_pack: fas
   name: Advanced Process Control
 widget_id: skills
