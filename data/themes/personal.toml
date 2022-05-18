@@ -7,8 +7,8 @@ name = "personal"
 
   # Menu
   menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#e0a39b"
+  menu_text = "#61423e"
+  menu_text_active = "#a8655d"
   menu_title = "#2b2b2b"
 
   # Home sections
