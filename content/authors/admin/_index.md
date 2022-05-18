@@ -1,12 +1,12 @@
 ---
 title: Allyson Stoll
 role: Lead, Technology & Innovation
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include advanced artificial intelligence applications
+  in mining and mineral processing.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Swarming Technology
 social:
   - icon: window-maximize
     icon_pack: fas
@@ -35,9 +35,8 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+Allyson is a highly motivated professional metallurgist with 11 years of experience in the mining & mineral processing industry, currently focused on obtaining a Master’s Degree in Data Science in order to hone and utilize her data science skills along with subject matter expertise to transform the mining industry.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+She has a profound understanding of data analytics and data informed decision making. Keen interest in Big Data. Skilled in MS Office, Python, Java, and data science. Proficient in sensor data and real-time controls.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
