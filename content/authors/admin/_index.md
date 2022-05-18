@@ -1,6 +1,7 @@
 ---
 title: Allyson Stoll
 role: Lead, Technology & Innovation
+avatar_filename: 0120allyson-stoll.jpg
 bio: My research interests include advanced artificial intelligence applications
   in mining and mineral processing.
 interests:
