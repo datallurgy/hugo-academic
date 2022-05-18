@@ -3,7 +3,7 @@ name = "personal"
   
 [light]
   # Primary
-  primary = "rgb(251, 191, 183)"
+  primary = "rgb(224, 163, 155)"
 
   # Menu
   menu_primary = "#fff"
@@ -19,5 +19,5 @@ name = "personal"
   # Primary
   primary = "rgb(251, 191, 183)"
 
-  link = "rgb(251, 191, 183)"
-  link_hover = "#bbdefb"
+  link = "rgb(224, 163, 155)"
+  link_hover = "rgb(224, 163, 155)"
