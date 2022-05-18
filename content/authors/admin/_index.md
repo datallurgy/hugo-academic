@@ -39,4 +39,4 @@ Allyson is a highly motivated professional metallurgist with 11 years of experie
 
 She has a profound understanding of data analytics and data informed decision making. Keen interest in Big Data. Skilled in MS Office, Python, Java, and data science. Proficient in sensor data and real-time controls.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "https://drive.google.com/file/d/1HEuECXrL6ff0f157qDTytDEGNtWnwHQd/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
