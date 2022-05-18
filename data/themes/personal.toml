@@ -3,13 +3,14 @@ name = "personal"
 
 [light]
   # Primary
-  primary = "#1565c0"
-
+  # primary = "#1565c0"
+  primary = "rgb(251, 191, 183)"
+  
   # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  # menu_primary = "#fff"
+  # menu_text = "#34495e"
+  # menu_text_active = "#2962ff"
+  # menu_title = "#2b2b2b"
   
   # Home sections
   home_section_odd = "rgb(255, 255, 255)"
@@ -17,7 +18,7 @@ name = "personal"
 
 [dark]
   # Primary
-  primary = "rgb(251, 191, 183)"
+  # primary = "rgb(251, 191, 183)"
 
   # Menu
   menu_primary = "rgb(247, 247, 247)"
@@ -25,5 +26,5 @@ name = "personal"
   menu_text_active = "rgb(25, 25, 25)"
   menu_title = "#000"
   
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  # link = "#bbdefb"
+  # link_hover = "#bbdefb"
