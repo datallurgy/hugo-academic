@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/120876fa-3239-4439-9d9d-c6357af9cc65/deploy-status)](https://app.netlify.com/sites/allysonstoll/deploys)
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
