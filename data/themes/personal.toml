@@ -19,6 +19,6 @@ name = "personal"
   # Primary
   primary = "#e28a92" #"#8e3639" #"hsl(339, 90%, 68%)"
 
-  menu_text_active = "#e28a92"
-  link = "#e28a92"  #"#8e3639" #"hsl(339, 90%, 68%)"
-  link_hover = "#e28a92" #"#8e3639" #"hsl(339, 90%, 68%)"
+  # menu_text_active = "#e28a92"
+  # link = "#e28a92"  #"#8e3639" #"hsl(339, 90%, 68%)"
+  # link_hover = "#e28a92" #"#8e3639" #"hsl(339, 90%, 68%)"
