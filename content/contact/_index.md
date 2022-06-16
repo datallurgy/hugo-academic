@@ -49,13 +49,13 @@ header:
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					<icon name="download" pack="fas">
+					  <icon name="download" pack="fas">
 				</div>
 				<div class="col is-8">
 						<p class="text-detail">allyson.stoll@teck.com</p>
 				</div>
 				<div class="col">
-                    <icon name="download" pack="fas">
+            <icon name="angle-right" pack="fas">
 				</div>
 			</div>
         </div>
