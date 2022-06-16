@@ -17,9 +17,9 @@ header:
 </head>
 
 <body>
-	<section class="banner">
+	<section class="banner" style='margin-top: 50px;'>
 		<div class="container">
-      <div class='row' style='margin-top: 50px;'>
+      <div class='row'>
 				<div class="col"></div>
 				<div class="col is-6">
 					<img class="profile-pic" src="assets/0215Allyson Stoll.jpg" alt="Profile Picture">
