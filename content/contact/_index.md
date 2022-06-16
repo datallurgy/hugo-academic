@@ -49,13 +49,13 @@ header:
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
-						<img src="assets/icon-email.svg" alt="Email Icon"">
+						<i class="fa-solid fa-envelope"></i>
 					</div>
 					<div class="col is-8">
 						<p class="text-detail">allyson.stoll@teck.com</p>
 					</div>
 					<div class="col">
-						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+						
 					</div>
 				</div>
 			</div>
