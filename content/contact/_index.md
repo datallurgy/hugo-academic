@@ -22,14 +22,13 @@ header:
 			<div class="row">
 				<div class="col"></div>
 				<div class="col is-5">
-					<img class="profile-pic" src="0215Allyson Stoll.jpg" alt="Profile Picture">
+					<img class="profile-pic" src="assets/0215Allyson Stoll.jpg" alt="Profile Picture">
 				</div>
 				<div class="col"></div>
 			</div>
 		</div>
 	</section>
-
-	<section class="primary-info">
+  <section class="primary-info">
 		<div class="container">
 			<div class="row name-title-company">
 				<div class="col is-6">
@@ -38,7 +37,7 @@ header:
 					<p class="text-title-company">Teck Resources Ltd.</p>
 				</div>
 				<div class="col">
-					<img src="assets/govtech-logo-blue.svg" alt="Company Logo">
+					<img src="assets/teck-logo.svg" alt="Company Logo">
 				</div>
 			</div>
 		</div>
