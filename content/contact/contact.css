@@ -13,6 +13,10 @@ section {
 	height: auto;
 }
 
+banner {
+  height: 125px;
+}
+
 p {
 	margin: 0.25rem !important;
 }
@@ -35,7 +39,7 @@ img {
 img.profile-pic {
 	height: 50%;
 	width: 50%;
-	object-fit: cover;
+	object-fit: contain;
 	border-radius: 50%;
 }
 
@@ -151,18 +155,6 @@ img.profile-pic {
 
 .bottom {
 	height: 23%;
-}
-
-.button {
-	background-color: "primary";
-  height: 48px;
-	padding-left: 24px;
-	padding-right: 24px;
-	text-align: center;
-	vertical-align: middle;
-	line-height: 48px;
-	color: white;
-	font-weight: 300;
 }
 
 @media screen and (max-width: 600px) {
