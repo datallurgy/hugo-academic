@@ -131,7 +131,8 @@ img.profile-pic {
 }
 
 .primary-info {
-	height: auto;
+	display: flex;
+  height: auto;
 }
 
 .secondary-info {
