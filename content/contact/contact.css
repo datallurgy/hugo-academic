@@ -14,7 +14,7 @@ section {
 }
 
 banner {
-  height: 125px;
+  height: auto;
 }
 
 p {
@@ -39,7 +39,7 @@ img {
 img.profile-pic {
 	height: 50%;
 	width: 50%;
-	object-fit: contain;
+	object-fit: cover;
 	border-radius: 50%;
 }
 
@@ -131,7 +131,7 @@ img.profile-pic {
 }
 
 .primary-info {
-	height: 15%;
+	height: auto;
 }
 
 .secondary-info {
