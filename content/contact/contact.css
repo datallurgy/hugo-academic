@@ -160,6 +160,11 @@ img.profile-pic {
 	height: 23%;
 }
 
+.btn-contact {
+  background-color: red;
+  color: white;
+}
+
 @media screen and (max-width: 600px) {
   img.profile-pic {
     height: 60%;
