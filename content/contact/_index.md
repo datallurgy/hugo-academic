@@ -51,7 +51,7 @@ header:
 				<div class="col">
 					  <i class="fa-solid fa-envelope"></i>
 				</div>
-				<div class="col is-9">
+				<div class="col is-8">
 						<p class="text-detail">allyson.stoll@teck.com</p>
 				</div>
 				<div class="col">
@@ -69,7 +69,7 @@ header:
                 <div class="col">
                     <i class="fa-solid fa-phone"></i>
                 </div>
-                <div class="col is-9">
+                <div class="col is-8">
                     <p class="text-detail">+1(236)985-4170</p>
                 </div>
                 <div class="col">
@@ -87,7 +87,7 @@ header:
                 <div class="col">
                     <i class="fa-regular fa-globe"></i>
                 </div>
-                <div class="col is-9">
+                <div class="col is-8">
                     <p class="text-detail">teck.com</p>
                 </div>
                 <div class="col">
@@ -105,7 +105,7 @@ header:
                 <div class="col">
                     <i class="fa-solid fa-location-dot"></i>
                 </div>
-                <div class="col is-9">
+                <div class="col is-8">
                     <p class="text-detail">3300-550 Burrard St. Vancouver, BC V6C 0B3</p>
                 </div>
                 <div class="col">
