@@ -18,8 +18,8 @@ header:
 
 <body>
 	<section class="banner">
-    <div class='buffer'></div>
 		<div class="container">
+      <div class='row buffer'></div>
       <div class='row'>
 				<div class="col"></div>
 				<div class="col is-6">
