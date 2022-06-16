@@ -116,7 +116,7 @@ header:
     </a>
 </section>
   
-<section class="bottom">
+<section class="bottom" style='margin-top: 10px;'>
     <div class="container-fluid">
         <div class="row">
             <div class="col"></div>
