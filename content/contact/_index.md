@@ -49,7 +49,7 @@ header:
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
-						<i class="fa-solid fa-envelope"></i>
+						<icon name="download" pack="fas">
 					</div>
 					<div class="col is-8">
 						<p class="text-detail">allyson.stoll@teck.com</p>
