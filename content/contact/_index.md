@@ -44,25 +44,24 @@ header:
 		</div>
 	</section>
 
-	<section class='secondary-info'>
-		<a href="mailto:allyson.stoll@teck.com">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<icon name="download" pack="fas">
-					</div>
-					<div class="col is-8">
+<section class='secondary-info'>
+	<a href="mailto:allyson.stoll@teck.com">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<icon name="download" pack="fas">
+				</div>
+				<div class="col is-8">
 						<p class="text-detail">allyson.stoll@teck.com</p>
-					</div>
-					<div class="col">
-						
-					</div>
+				</div>
+				<div class="col">
+                    <icon name="download" pack="fas">
 				</div>
 			</div>
-      </div>
-		</a>
-	</section>
-
+        </div>
+    </a>
+</section>
+    
 	<section class="secondary-info">
 		<a href="tel:+12369854170">
 			<div class="container">
