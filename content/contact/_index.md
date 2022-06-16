@@ -63,40 +63,40 @@ header:
 </section>
 
 <section class="secondary-info">
-  <a href="tel:+12369854170">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<i class="fa-solid fa-phone"></i>
-				</div>
-				<div class="col is-8">
-					<p class="text-detail">+1(236)985-4170</p>
-				</div>
-				<div class="col">
-					<i class="fa-solid fa-angle-right"></i>
-				</div>
-			</div>
-		</div>
-	</a>
-	</section>
-
-	<section class="secondary-info">
-		<a href="http://www.teck.com">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<i class="fa-regular fa-globe"></i>
-					</div>
-					<div class="col is-8">
-						<p class="text-detail">teck.com</p>
-					</div>
-					<div class="col">
-						 <i class="fa-solid fa-angle-right"></i>
-					</div>
-				</div>
-			</div>
-		</a>
-	</section>
+    <a href="tel:+12369854170">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <i class="fa-solid fa-phone"></i>
+                </div>
+                <div class="col is-8">
+                    <p class="text-detail">+1(236)985-4170</p>
+                </div>
+                <div class="col">
+                    <i class="fa-solid fa-angle-right"></i>
+                </div>
+            </div>
+        </div>
+    </a>
+</section>
+  
+<section class="secondary-info">
+    <a href="http://www.teck.com">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <i class="fa-regular fa-globe"></i>
+                </div>
+                <div class="col is-8">
+                    <p class="text-detail">teck.com</p>
+                </div>
+                <div class="col">
+                    <i class="fa-solid fa-angle-right"></i>
+                </div>
+            </div>
+        </div>
+    </a>
+</section>
 
 	<section class="secondary-info">
 		<a href = "https://www.google.com.sg/maps/place/Teck+Resources+Limited/@49.2858435,-123.1206839,17z/data=!3m2!4b1!5s0x54867180f89c05ff:0x1f68adcb4034b2df!4m5!3m4!1s0x5486718225021d8b:0xfe06796c328ba59e!8m2!3d49.28584!4d-123.1184952">
