@@ -1,5 +1,5 @@
 ---
-title: Contact Me
+title:
 date: '2018-06-28T00:00:00+01:00'
 draft: false
 share: false
@@ -13,7 +13,7 @@ header:
 ---
 <head>
   <link rel="stylesheet" href="contact.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
 </head>
 
 <body>
@@ -28,6 +28,7 @@ header:
 			</div>
 		</div>
 	</section>
+  
   <section class="primary-info">
 		<div class="container">
 			<div class="row name-title-company">
@@ -43,15 +44,15 @@ header:
 		</div>
 	</section>
 
-	<section class="bg-color-white secondary-info">
-		<a href="mailto:preston@data.gov.sg">
+	<section class="secondary-info">
+		<a href="mailto:allyson.stoll@teck.com">
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
 						<img src="assets/icon-email.svg" alt="Email Icon"">
 					</div>
 					<div class="col is-8">
-						<p class="text-detail">preston@data.gov.sg</p>
+						<p class="text-detail">allyson.stoll@teck.com</p>
 					</div>
 					<div class="col">
 						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
@@ -61,15 +62,15 @@ header:
 		</a>
 	</section>
 
-	<section class="bg-color-white secondary-info">
-		<a href="tel:+6591234567">
+	<section class="secondary-info">
+		<a href="tel:+12369854170">
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
 						<img src="assets/icon-phone.svg" alt="Phone Icon"">
 					</div>
 					<div class="col is-8">
-						<p class="text-detail">(+65) 9123 4567</p>
+						<p class="text-detail">+1(236)985-4170</p>
 					</div>
 					<div class="col">
 						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
@@ -79,15 +80,15 @@ header:
 		</a>
 	</section>
 
-	<section class="bg-color-white secondary-info">
-		<a href="https://www.tech.gov.sg">
+	<section class="secondary-info">
+		<a href="http://www.teck.com">
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
 						<img src="assets/icon-website.svg" alt="Website Icon"">
 					</div>
 					<div class="col is-8">
-						<p class="text-detail">tech.gov.sg</p>
+						<p class="text-detail">teck.com</p>
 					</div>
 					<div class="col">
 						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
@@ -97,16 +98,15 @@ header:
 		</a>
 	</section>
 
-	<section class="bg-color-white secondary-info">
-		<a href="https://www.google.com.sg/maps/place/GovTech+Hive/@1.2998708,103.7871504,17z/
-		data=!3m1!4b1!4m5!3m4!1s0x31da1a457344a501:0x2202a995a6abc728!8m2!3d1.2998708!4d103.7893391">
+	<section class="secondary-info">
+		<a href = "https://www.google.com.sg/maps/place/Teck+Resources+Limited/@49.2858435,-123.1206839,17z/data=!3m2!4b1!5s0x54867180f89c05ff:0x1f68adcb4034b2df!4m5!3m4!1s0x5486718225021d8b:0xfe06796c328ba59e!8m2!3d49.28584!4d-123.1184952">
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
 						<img src="assets/icon-address.svg" alt="Address Icon"">
 					</div>
 					<div class="col is-8">
-						<p class="text-detail">1 Fusionopolis, Sandcrawler, #09-01, 138577</p>
+						<p class="text-detail">3300-550 Burrard St. Vancouver, BC V6C 0B3</p>
 					</div>
 					<div class="col">
 						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
@@ -116,13 +116,13 @@ header:
 		</a>
 	</section>
 
-	<section class="bg-color-white bottom">
+	<section class="bottom">
 		<div class="container">
 			<div class="row">
 				<div class="col"></div>
 				<div class="col is-5">
 					<div class="button">
-						<a href="user.vcf">
+						<a href="assets/allyson.vcf">
 							<p class="button">Download</p>
 						</a>
 					</div>
