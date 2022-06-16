@@ -121,11 +121,7 @@ header:
         <div class="row">
             <div class="col"></div>
             <div class="col is-5">
-                <div class="button">
-                    <a href="assets/allyson.vcf">
-                        <p class="button">Download</p>
-                    </a>
-                </div>
+                    <a href="assets/allyson.vcf" class='btn btn-dark btn-lrg'> Download </a>
             </div>
             <div class="col"></div>
         </div>
