@@ -18,7 +18,7 @@ header:
 
 <body>
 	<section class="banner">
-		<div class="container">
+		<div class="container-fluid">
       <div class='row'>
 				<div class="col"></div>
 				<div class="col is-5">
@@ -30,7 +30,7 @@ header:
 	</section>
   
   <section class="primary-info">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row name-title-company">
 				<div class="col is-6">
 					<p class="text-name">Allyson Stoll</p>
