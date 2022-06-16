@@ -6,9 +6,10 @@ FN: Allyson Stoll
 ORG:Teck Resources Ltd.;
 TITLE:Lead, Technology & Innovation
 EMAIL;type=INTERNET;type=WORK;type=pref:allyson.stoll@teck.com
-TEL;type=WORK;type=VOICE:+1 236 985 4170
+TEL;type=work;type=VOICE:+1 604 699 4064
+TEL;type=iPhone;type=VOICE:+1 236 985 4170
 item1.ADR;type=WORK;type=pref:;;550 Burrard St.\nSuite 3300;Vancouver;BC;V6C 0B3;Canada
 item1.X-ABADR:can
-item2.URL;type=pref:teck.com
+item2.URL;type=pref:www.teck.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
