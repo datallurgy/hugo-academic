@@ -54,7 +54,7 @@ img.profile-pic {
   flex-shrink: 0;
 	flex-direction: row;
 	position: relative;
-	height: 100%;
+	height: fit-content;
 }
 
 .col {
