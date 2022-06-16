@@ -70,7 +70,7 @@ header:
                     <i class="fa-solid fa-phone"></i>
                 </div>
                 <div class="col is-8">
-                    <p class="text-detail">+1(236)985-4170</p>
+                    <p class="text-detail">+1 (236) 985-4170</p>
                 </div>
                 <div class="col">
                     <i class="fa-solid fa-angle-right"></i>
@@ -88,7 +88,7 @@ header:
                     <i class="fa-regular fa-globe"></i>
                 </div>
                 <div class="col is-8">
-                    <p class="text-detail">teck.com</p>
+                    <p class="text-detail">www.teck.com</p>
                 </div>
                 <div class="col">
                     <i class="fa-solid fa-angle-right"></i>
