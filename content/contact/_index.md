@@ -58,26 +58,26 @@ header:
             <i class="fa-solid fa-angle-right"></i>
 				</div>
 			</div>
-        </div>
-    </a>
+     </div>
+  </a>
 </section>
-    
-	<section class="secondary-info">
-		<a href="tel:+12369854170">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<i class="fa-solid fa-phone"></i>
-					</div>
-					<div class="col is-8">
-						<p class="text-detail">+1(236)985-4170</p>
-					</div>
-					<div class="col">
-						 <i class="fa-solid fa-angle-right"></i>
-					</div>
+
+<section class="secondary-info">
+  <a href="tel:+12369854170">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<i class="fa-solid fa-phone"></i>
+				</div>
+				<div class="col is-8">
+					<p class="text-detail">+1(236)985-4170</p>
+				</div>
+				<div class="col">
+					<i class="fa-solid fa-angle-right"></i>
 				</div>
 			</div>
-		</a>
+		</div>
+	</a>
 	</section>
 
 	<section class="secondary-info">
