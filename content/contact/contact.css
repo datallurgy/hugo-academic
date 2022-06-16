@@ -128,7 +128,7 @@ img.profile-pic {
 }
 
 .primary-info {
-  max-height: auto;
+  max-height: 150px;
 }
 
 .secondary-info {
