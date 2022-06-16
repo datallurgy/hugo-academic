@@ -19,12 +19,14 @@ header:
 <body>
 	<section class="banner">
 		<div class="container-fluid">
+      <div class='row'>
 				<div class="col"></div>
 				<div class="col is-5">
 					<img class="profile-pic" src="assets/0215Allyson Stoll.jpg" alt="Profile Picture">
 				</div>
 				<div class="col"></div>
 			</div>
+    </div>
 	</section>
   
   <section class="primary-info">
