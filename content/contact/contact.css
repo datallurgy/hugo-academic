@@ -32,6 +32,11 @@ a {
   color: red;
 }
 
+a.dark {
+	text-decoration: none;
+  color: red;
+}
+
 img {
 	display: block;
   margin-left: auto;
