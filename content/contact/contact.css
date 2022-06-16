@@ -10,7 +10,7 @@ section {
 	display: block;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
-	max-height: fit-content;
+	height: auto;
 }
 
 p {
@@ -43,6 +43,7 @@ img.profile-pic {
 	margin: auto;
 	position: relative;
   width: 100%;
+  max-height: fit-content;
 }
 
 .row {
