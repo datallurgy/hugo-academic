@@ -50,6 +50,7 @@ img.profile-pic {
 	justify-content: center;
 	align-items: center;
 	flex-wrap: wrap;
+  flex-shrink: 0;
 	flex-direction: row;
 	position: relative;
 	height: 100%;
