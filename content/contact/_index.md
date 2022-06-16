@@ -13,7 +13,7 @@ header:
 ---
 <head>
   <link rel="stylesheet" href="contact.css">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
 
 <body>
@@ -21,7 +21,7 @@ header:
 		<div class="container">
 			<div class="row">
 				<div class="col"></div>
-				<div class="col is-7">
+				<div class="col is-5">
 					<img class="profile-pic" src="assets/0215Allyson Stoll.jpg" alt="Profile Picture">
 				</div>
 				<div class="col"></div>
