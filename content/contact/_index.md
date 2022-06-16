@@ -13,8 +13,6 @@ header:
 ---
 <head>
   <link rel="stylesheet" href="contact.css">
-  <link href='https://fonts.googleapis.com/css?family=Lato:200,300,400,700' rel='stylesheet' type='text/css'>
-<link href="https://fonts.googleapis.com/css?family=Muli:200,300" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 </head>
 
@@ -31,13 +29,13 @@ header:
 		</div>
 	</section>
 
-	<section class="bg-color-white primary-info">
+	<section class="primary-info">
 		<div class="container">
 			<div class="row name-title-company">
 				<div class="col is-6">
-					<p class="text-name">Preston Lim</p>
-					<p class="text-title-company">Associate Software Engineer</p>
-					<p class="text-title-company">Data Science Division, GovTech</p>
+					<p class="text-name">Allyson Stoll</p>
+					<p class="text-title-company">Lead, Technology & Innovation</p>
+					<p class="text-title-company">Teck Resources Ltd.</p>
 				</div>
 				<div class="col">
 					<img src="assets/govtech-logo-blue.svg" alt="Company Logo">
