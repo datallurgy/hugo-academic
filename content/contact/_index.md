@@ -55,7 +55,7 @@ header:
 						<p class="text-detail">allyson.stoll@teck.com</p>
 				</div>
 				<div class="col">
-            <icon name="angle-right" pack="fas">
+            <i class="fa-solid fa-angle-right"></i>
 				</div>
 			</div>
         </div>
