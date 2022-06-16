@@ -47,7 +47,7 @@ header:
 	<section class="secondary-info">
 		<a href="mailto:allyson.stoll@teck.com">
 			<div class="container">
-				<div class="row detail">
+				<div class="row">
 					<div class="col">
 						<icon name="download" pack="fas">
 					</div>
