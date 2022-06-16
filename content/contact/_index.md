@@ -37,7 +37,7 @@ header:
 					<p class="text-title-company">Lead, Technology & Innovation</p>
 					<p class="text-title-company">Teck Resources Ltd.</p>
 				</div>
-				<div class="col" style='max-height: 150px;'>
+				<div class="col" style='padding: 0;'>
 					<img src="assets/teck-resources-logo.png" alt="Company Logo">
 				</div>
 			</div>
