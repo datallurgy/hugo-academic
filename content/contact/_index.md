@@ -49,7 +49,7 @@ header:
 		<div class="container">
 			<div class="row">
 				<div class="col">
-					  <icon name="download" pack="fas">
+					  <i class="fa-solid fa-envelope"></i>
 				</div>
 				<div class="col is-8">
 						<p class="text-detail">allyson.stoll@teck.com</p>
@@ -73,7 +73,7 @@ header:
 						<p class="text-detail">+1(236)985-4170</p>
 					</div>
 					<div class="col">
-						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+						 <i class="fa-solid fa-angle-right"></i>
 					</div>
 				</div>
 			</div>
@@ -91,7 +91,7 @@ header:
 						<p class="text-detail">teck.com</p>
 					</div>
 					<div class="col">
-						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+						 <i class="fa-solid fa-angle-right"></i>
 					</div>
 				</div>
 			</div>
@@ -109,7 +109,7 @@ header:
 						<p class="text-detail">3300-550 Burrard St. Vancouver, BC V6C 0B3</p>
 					</div>
 					<div class="col">
-						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+						 <i class="fa-solid fa-angle-right"></i>
 					</div>
 				</div>
 			</div>
