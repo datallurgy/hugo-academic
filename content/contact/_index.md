@@ -18,7 +18,7 @@ header:
 
 <body>
 	<section class="banner">
-		<div class="container-fluid row">
+		<div class="container-fluid">
 				<div class="col"></div>
 				<div class="col is-5">
 					<img class="profile-pic" src="assets/0215Allyson Stoll.jpg" alt="Profile Picture">
