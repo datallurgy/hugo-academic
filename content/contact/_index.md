@@ -17,6 +17,7 @@ header:
 </head>
 
 <body>
+  <section class='buffer'></section>
 	<section class="banner">
 		<div class="container">
       <div class='row'>
