@@ -34,7 +34,7 @@ header:
 			<div class="row name-title-company">
 				<div class="col is-6">
 					<p class="text-name">Allyson Stoll</p>
-					<p class="text-title-company">Lead,<br>Technology & Innovation</p>
+					<p class="text-title-company">Lead, Technology & Innovation</p>
 					<p class="text-title-company">Teck Resources Ltd.</p>
 				</div>
 				<div class="col" style='padding: 0;'>
