@@ -44,7 +44,7 @@ header:
 		</div>
 	</section>
 
-	<section class="secondary-info">
+	<section>
 		<a href="mailto:allyson.stoll@teck.com">
 			<div class="container">
 				<div class="row">
