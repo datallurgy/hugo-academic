@@ -130,15 +130,15 @@ img.profile-pic {
 }
 
 .banner {
-	height: 5rem;
+	height: 30%;
 }
 
 .primary-info {
-  height: 10rem;
+  height: 15%;
 }
 
 .secondary-info {
-	height: 2.5rem;
+	height: 8%;
 }
 
 .text-name {
@@ -157,7 +157,7 @@ img.profile-pic {
 }
 
 .bottom {
-	height: 15vh;
+	height: 20%;
 }
 
 .btn-contact {
