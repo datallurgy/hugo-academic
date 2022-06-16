@@ -38,7 +38,7 @@ header:
 					<p class="text-title-company">Teck Resources Ltd.</p>
 				</div>
 				<div class="col" style='padding: 0;'>
-					<img src="assets/teck-resources-logo.png" alt="Company Logo">
+					<img src="assets/teck-resources-logo.png" style='margin-top: 0; margin-bottom: 0;'>
 				</div>
 			</div>
 		</div>
