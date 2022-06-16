@@ -29,7 +29,7 @@ header:
     </div>
 	</section>
   
-  <section class="primary-info" style='margin-bottom: 10px;'>
+  <section class="primary-info" style='margin-bottom: 25px;'>
 		<div class="container">
 			<div class="row name-title-company">
 				<div class="col is-6">
