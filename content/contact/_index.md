@@ -85,7 +85,7 @@ header:
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
-						<img src="assets/icon-website.svg" alt="Website Icon">
+						<i class="fa-regular fa-globe"></i>
 					</div>
 					<div class="col is-8">
 						<p class="text-detail">teck.com</p>
