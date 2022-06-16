@@ -67,7 +67,7 @@ header:
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
-						<img src="assets/icon-phone.svg" alt="Phone Icon"">
+						<i class="fa-solid fa-phone"></i>
 					</div>
 					<div class="col is-8">
 						<p class="text-detail">+1(236)985-4170</p>
@@ -85,7 +85,7 @@ header:
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
-						<img src="assets/icon-website.svg" alt="Website Icon"">
+						<img src="assets/icon-website.svg" alt="Website Icon">
 					</div>
 					<div class="col is-8">
 						<p class="text-detail">teck.com</p>
@@ -103,7 +103,7 @@ header:
 			<div class="container">
 				<div class="row detail">
 					<div class="col">
-						<img src="assets/icon-address.svg" alt="Address Icon"">
+						<i class="fa-solid fa-location-dot"></i>
 					</div>
 					<div class="col is-8">
 						<p class="text-detail">3300-550 Burrard St. Vancouver, BC V6C 0B3</p>
