@@ -44,7 +44,7 @@ header:
 		</div>
 	</section>
 
-	<section>
+	<section class='secondary-info'>
 		<a href="mailto:allyson.stoll@teck.com">
 			<div class="container">
 				<div class="row">
@@ -59,6 +59,7 @@ header:
 					</div>
 				</div>
 			</div>
+      </div>
 		</a>
 	</section>
 
