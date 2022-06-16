@@ -19,7 +19,7 @@ header:
 <body>
 	<section class="banner">
 		<div class="container-fluid">
-      <div class='row'>
+      <div class='row align-items-center'>
 				<div class="col"></div>
 				<div class="col is-5">
 					<img class="profile-pic" src="assets/0215Allyson Stoll.jpg" alt="Profile Picture">
@@ -31,7 +31,7 @@ header:
   
   <section class="primary-info">
 		<div class="container-fluid">
-			<div class="row name-title-company">
+			<div class="row name-title-company align-items-center">
 				<div class="col is-6">
 					<p class="text-name">Allyson Stoll</p>
 					<p class="text-title-company">Lead, Technology & Innovation</p>
