@@ -17,7 +17,7 @@ header:
 </head>
 
 <body>
-	<section class="banner" style='margin-top: 50px;'>
+	<section class="banner" style='margin-top: 10px;'>
 		<div class="container">
       <div class='row'>
 				<div class="col"></div>
