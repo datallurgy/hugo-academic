@@ -48,7 +48,7 @@ img.profile-pic {
 	display: block;
 	justify-content: center;
 	align-items: center;
-	flex-wrap: wrap;
+	flex-wrap: nowrap;
   flex-shrink: 0;
 	flex-direction: row;
 	position: relative;
