@@ -1,0 +1,132 @@
+---
+title: 
+date: '2018-06-28T00:00:00+01:00'
+draft: true
+share: false
+commentable: false
+editable: false
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ''
+  image: ''
+---
+
+<body>
+	<section class="bg-color-grey banner">
+		<div class="container">
+			<div class="row">
+				<div class="col"></div>
+				<div class="col is-5">
+					<img class="profile-pic" src="preston.jpg" alt="Profile Picture">
+				</div>
+				<div class="col"></div>
+			</div>
+		</div>
+	</section>
+
+	<section class="bg-color-white primary-info">
+		<div class="container">
+			<div class="row name-title-company">
+				<div class="col is-6">
+					<p class="text-name">Preston Lim</p>
+					<p class="text-title-company">Associate Software Engineer</p>
+					<p class="text-title-company">Data Science Division, GovTech</p>
+				</div>
+				<div class="col">
+					<img src="assets/govtech-logo-blue.svg" alt="Company Logo">
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="bg-color-white secondary-info">
+		<a href="mailto:preston@data.gov.sg">
+			<div class="container">
+				<div class="row detail">
+					<div class="col">
+						<img src="assets/icon-email.svg" alt="Email Icon"">
+					</div>
+					<div class="col is-8">
+						<p class="text-detail">preston@data.gov.sg</p>
+					</div>
+					<div class="col">
+						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+					</div>
+				</div>
+			</div>
+		</a>
+	</section>
+
+	<section class="bg-color-white secondary-info">
+		<a href="tel:+6591234567">
+			<div class="container">
+				<div class="row detail">
+					<div class="col">
+						<img src="assets/icon-phone.svg" alt="Phone Icon"">
+					</div>
+					<div class="col is-8">
+						<p class="text-detail">(+65) 9123 4567</p>
+					</div>
+					<div class="col">
+						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+					</div>
+				</div>
+			</div>
+		</a>
+	</section>
+
+	<section class="bg-color-white secondary-info">
+		<a href="https://www.tech.gov.sg">
+			<div class="container">
+				<div class="row detail">
+					<div class="col">
+						<img src="assets/icon-website.svg" alt="Website Icon"">
+					</div>
+					<div class="col is-8">
+						<p class="text-detail">tech.gov.sg</p>
+					</div>
+					<div class="col">
+						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+					</div>
+				</div>
+			</div>
+		</a>
+	</section>
+
+	<section class="bg-color-white secondary-info">
+		<a href="https://www.google.com.sg/maps/place/GovTech+Hive/@1.2998708,103.7871504,17z/
+		data=!3m1!4b1!4m5!3m4!1s0x31da1a457344a501:0x2202a995a6abc728!8m2!3d1.2998708!4d103.7893391">
+			<div class="container">
+				<div class="row detail">
+					<div class="col">
+						<img src="assets/icon-address.svg" alt="Address Icon"">
+					</div>
+					<div class="col is-8">
+						<p class="text-detail">1 Fusionopolis, Sandcrawler, #09-01, 138577</p>
+					</div>
+					<div class="col">
+						<img src="assets/right-arrow.svg" alt="Right Arrow" height="50%" width="40%">
+					</div>
+				</div>
+			</div>
+		</a>
+	</section>
+
+	<section class="bg-color-white bottom">
+		<div class="container">
+			<div class="row">
+				<div class="col"></div>
+				<div class="col is-5">
+					<div class="button">
+						<a href="user.vcf">
+							<p class="button">Download</p>
+						</a>
+					</div>
+				</div>
+				<div class="col"></div>
+			</div>
+		</div>
+	</section>
+
+</body>
