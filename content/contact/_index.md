@@ -19,7 +19,7 @@ header:
 </head>
 
 <body>
-	<section class="bg-color-grey banner">
+	<section class="banner">
 		<div class="container">
 			<div class="row">
 				<div class="col"></div>
