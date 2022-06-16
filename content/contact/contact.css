@@ -154,7 +154,8 @@ img.profile-pic {
 }
 
 .button {
-	height: 48px;
+	background-color: primary;
+  height: 48px;
 	padding-left: 24px;
 	padding-right: 24px;
 	text-align: center;
