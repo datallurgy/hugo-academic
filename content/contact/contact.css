@@ -10,11 +10,7 @@ section {
 	display: block;
 	padding-left: 0.5rem;
 	padding-right: 0.5rem;
-	height: auto;
-}
-
-banner {
-  height: auto;
+	max-height: fit-content;
 }
 
 p {
