@@ -34,7 +34,7 @@ header:
 			<div class="row name-title-company">
 				<div class="col is-6">
 					<p class="text-name">Allyson Stoll</p>
-					<p class="text-title-company">Lead, Technology & Innovation</p>
+					<p class="text-title-company">Lead,<br>Technology & Innovation</p>
 					<p class="text-title-company">Teck Resources Ltd.</p>
 				</div>
 				<div class="col" style='padding: 0;'>
@@ -106,7 +106,7 @@ header:
                     <i class="fa-solid fa-location-dot"></i>
                 </div>
                 <div class="col is-8">
-                    <p class="text-detail">3300-550 Burrard St. Vancouver, BC V6C 0B3</p>
+                    <p class="text-detail">3300-550 Burrard St.<br>Vancouver, BC V6C 0B3<br>Canada</p>
                 </div>
                 <div class="col">
                     <i class="fa-solid fa-angle-right"></i>
