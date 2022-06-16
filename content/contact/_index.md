@@ -97,39 +97,39 @@ header:
         </div>
     </a>
 </section>
-
-	<section class="secondary-info">
-		<a href = "https://www.google.com.sg/maps/place/Teck+Resources+Limited/@49.2858435,-123.1206839,17z/data=!3m2!4b1!5s0x54867180f89c05ff:0x1f68adcb4034b2df!4m5!3m4!1s0x5486718225021d8b:0xfe06796c328ba59e!8m2!3d49.28584!4d-123.1184952">
-			<div class="container">
-				<div class="row">
-					<div class="col">
-						<i class="fa-solid fa-location-dot"></i>
-					</div>
-					<div class="col is-8">
-						<p class="text-detail">3300-550 Burrard St. Vancouver, BC V6C 0B3</p>
-					</div>
-					<div class="col">
-						 <i class="fa-solid fa-angle-right"></i>
-					</div>
-				</div>
-			</div>
-		</a>
-	</section>
-
-	<section class="bottom">
-		<div class="container">
-			<div class="row">
-				<div class="col"></div>
-				<div class="col is-5">
-					<div class="button">
-						<a href="assets/allyson.vcf">
-							<p class="button">Download</p>
-						</a>
-					</div>
-				</div>
-				<div class="col"></div>
-			</div>
-		</div>
-	</section>
+  
+<section class="secondary-info">
+    <a href = "https://www.google.com.sg/maps/place/Teck+Resources+Limited/@49.2858435,-123.1206839,17z/data=!3m2!4b1!5s0x54867180f89c05ff:0x1f68adcb4034b2df!4m5!3m4!1s0x5486718225021d8b:0xfe06796c328ba59e!8m2!3d49.28584!4d-123.1184952">
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <i class="fa-solid fa-location-dot"></i>
+                </div>
+                <div class="col is-8">
+                    <p class="text-detail">3300-550 Burrard St. Vancouver, BC V6C 0B3</p>
+                </div>
+                <div class="col">
+                    <i class="fa-solid fa-angle-right"></i>
+                </div>
+            </div>
+        </div>
+    </a>
+</section>
+  
+<section class="bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col"></div>
+            <div class="col is-5">
+                <div class="button">
+                    <a href="assets/allyson.vcf">
+                        <p class="button">Download</p>
+                    </a>
+                </div>
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
+</section>
 
 </body>
