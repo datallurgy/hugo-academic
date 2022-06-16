@@ -42,7 +42,7 @@ img.profile-pic {
 .container {
 	margin: auto;
 	position: relative;
-  width: auto;
+  width: 100%;
 }
 
 .row {
