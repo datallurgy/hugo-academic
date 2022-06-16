@@ -12,7 +12,7 @@ header:
   image: ''
 ---
 <head>
-  <link rel="stylesheet" href="main.css">
+  <link rel="stylesheet" href="contact.css">
   <link href='https://fonts.googleapis.com/css?family=Lato:200,300,400,700' rel='stylesheet' type='text/css'>
 <link href="https://fonts.googleapis.com/css?family=Muli:200,300" rel="stylesheet">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
