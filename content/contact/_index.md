@@ -121,6 +121,13 @@ header:
         <div class="row">
             <div class="col"></div>
             <div class="col is-8">
+                    <a href="https://www.linkedin.com/in/allyson-stoll" class='btn btn-contact btn-lrg btn-block' style='font-size: 16px;'> <i class="fa-brands fa-linkedin" style='color: white;'></i> LinkedIn </a>
+            </div>
+            <div class="col"></div>
+        </div>
+      <div class="row">
+            <div class="col"></div>
+            <div class="col is-8">
                     <a href="assets/allyson.vcf" class='btn btn-contact btn-lrg btn-block' style='font-size: 16px;'> <i class="fa-solid fa-download" style='color: white;'></i> Download </a>
             </div>
             <div class="col"></div>
