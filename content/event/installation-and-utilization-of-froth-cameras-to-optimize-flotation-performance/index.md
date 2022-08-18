@@ -1,5 +1,6 @@
 ---
 title: Installation and Utilization of Froth Cameras to Optimize Flotation Performance
+summary: Presentation for the Alaska Miners Association Annual Fall Convention.
 abstract: The Red Dog Mine in northwest Alaska is one of the world’s largest
   zinc producing mines. The heterogeneity of the ore body results in a
   significant amount of variability in the feed mineralogy and grade; this makes
