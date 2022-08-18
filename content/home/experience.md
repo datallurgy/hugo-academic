@@ -81,7 +81,7 @@ experience:
     location: Logan Lake, BC
     date_start: '2014'
     date_end: '2014'
-    description |2-
+    description: |2-
         * Led a team to commission an M1000 Isamill regrind circuit for a new copper-molybdenum bulk flotation plant by communicating effectively with contractor, technical, operating and maintenance groups.
         * Optimized & debottlenecked the high-grade cleaning and recleaner circuits with minimal process changes by utilizing existing equipment.
         * Coordinated with operating and maintenance groups to achieve 80% Isamill utilization within six months of commissioning and three months ahead of schedule.
