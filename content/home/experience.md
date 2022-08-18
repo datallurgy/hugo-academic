@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: '2006'
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -41,7 +41,7 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Vancouver, BC
-    date_start: '2018'
+    date_start: '2018-12'
     date_end: ''
     description: |2-
         * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
@@ -54,8 +54,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Anchorage, AK
-    date_start: '2016'
-    date_end: '2018'
+    date_start: '2016-03'
+    date_end: '2018-11'
     description: |2-
         * Created SAG circuit advanced process control logic based on old logic from OCS 9.1 for the new OCS-4D application, including programming, defining dynamic circuit constraints for bottleneck detection, and active evaluation of control performance.
         * Commissioned a $500K VisioFroth system, enabling real time optimization of the zinc rougher circuit.
@@ -68,8 +68,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Anchorage, AK
-    date_start: '2015'
-    date_end: '2016'
+    date_start: '2015-01'
+    date_end: '2016-02'
     description: |2-
         * Trained and mentored two engineers transitioning into the Operating Engineer role to allow me to shift into a new position for technical development.
         * Maximized water discharge under tight seasonal constraints through collaboration with Mill Operations while adhering to strict regulatory compliance requirements.
@@ -79,8 +79,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Logan Lake, BC
-    date_start: '2014'
-    date_end: '2014'
+    date_start: '2014-01'
+    date_end: '2014-12'
     description: |2-
         * Led a team to commission an M1000 Isamill regrind circuit for a new copper-molybdenum bulk flotation plant by communicating effectively with contractor, technical, operating and maintenance groups.
         * Optimized & debottlenecked the high-grade cleaning and recleaner circuits with minimal process changes by utilizing existing equipment.
@@ -91,8 +91,8 @@ experience:
     company_url: ''
     company_logo: org-x
     location: Anchorage, AK
-    date_start: '2012'
-    date_end: '2013'
+    date_start: '2012-09'
+    date_end: '2013-12'
     description: |2-
         * Optimized daily metallurgical performance by setting effective targets, evaluating changing process conditions and collaborative effort with the mill operations crews.
         * Communicated efficiently with technical, operating and maintenance groups to minimize resource losses.
