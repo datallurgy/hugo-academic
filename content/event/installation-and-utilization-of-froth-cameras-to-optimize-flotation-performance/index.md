@@ -1,6 +1,20 @@
 ---
 title: Installation and Utilization of Froth Cameras to Optimize Flotation Performance
-abstract: Presentation for the Alaska Miners Association Annual Fall Convention.
+abstract: The Red Dog Mine in northwest Alaska is one of the world’s largest
+  zinc producing mines. The heterogeneity of the ore body results in a
+  significant amount of variability in the feed mineralogy and grade; this makes
+  flotation optimization challenging. Froth cameras were initially installed in
+  the lead and zinc rougher circuits in 2003 to help operators adjust the
+  circuit for changes in feed grade in order to maximize recovery. System use
+  declined as the camera and lighting technology became obsolete. The froth
+  cameras were updated in early 2017 to LED illuminated, Internet-Protocol (IP)
+  based cameras, in line with modern technology. These cameras constantly
+  monitor the rougher circuit and collect data related to froth characteristics,
+  such as color, texture, velocity, and stability, allowing for optimization of
+  the circuit recovery. This presentation discusses the installation process,
+  current utilization of the froth camera data, and future planned operation of
+  froth cameras with an Expert system to optimize flotation circuit performance
+  at the Red Dog Mine.
 location: Dena'ina Center
 date: 2017-11-10T00:30:00.000Z
 date_end: 2017-11-10T01:00:00.000Z
@@ -15,4 +29,3 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The Red Dog Mine in northwest Alaska is one of the world’s largest zinc producing mines. The heterogeneity of the ore body results in a significant amount of variability in the feed mineralogy and grade; this makes flotation optimization challenging. Froth cameras were initially installed in the lead and zinc rougher circuits in 2003 to help operators adjust the circuit for changes in feed grade in order to maximize recovery. System use declined as the camera and lighting technology became obsolete. The froth cameras were updated in early 2017 to LED illuminated, Internet-Protocol (IP) based cameras, in line with modern technology. These cameras constantly monitor the rougher circuit and collect data related to froth characteristics, such as color, texture, velocity, and stability, allowing for optimization of the circuit recovery. This presentation discusses the installation process, current utilization of the froth camera data, and future planned operation of froth cameras with an Expert system to optimize flotation circuit performance at the Red Dog Mine.
