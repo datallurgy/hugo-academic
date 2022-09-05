@@ -20,6 +20,7 @@ url_slides: https://drive.google.com/file/d/1bTkg2vKEBzcTn4vrwegzK3j-jBnpbLD0/vi
 publishDate: 2022-09-05T22:51:17.323Z
 draft: false
 featured: false
+share: false
 image:
   filename: featured.jpg
   focal_point: Smart
