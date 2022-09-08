@@ -38,7 +38,7 @@ experience:
   - title: Project Metallurgist
     company: Teck Alaska Inc.
     company_url: ''
-    company_logo: teck-resources
+    company_logo: lockup_RedDog_RGB
     location: Anchorage, AK
     date_start: '2016-03-01'
     date_end: '2018-11-30'
@@ -52,7 +52,7 @@ experience:
   - title: Operating Engineer (EIT)
     company: Teck Alaska Inc
     company_url: ''
-    company_logo: teck-resources
+    company_logo: lockup_RedDog_RGB
     location: Anchorage, AK
     date_start: '2015-01-01'
     date_end: '2016-02-29'
@@ -63,7 +63,7 @@ experience:
   - title: Metallurgical Engineer, EIT
     company: Teck Resources Ltd.
     company_url: ''
-    company_logo: teck-resources
+    company_logo: lockup_HighlandValleyCopper_RGB
     location: Logan Lake, BC
     date_start: '2014-01-01'
     date_end: '2014-12-31'
@@ -75,7 +75,7 @@ experience:
   - title: Operating Engineer (EIT)
     company: Teck Alaska Inc.
     company_url: ''
-    company_logo: teck-resources
+    company_logo: lockup_RedDog_RGB
     location: Anchorage, AK
     date_start: '2012-09-01'
     date_end: '2013-12-31'
