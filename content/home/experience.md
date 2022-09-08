@@ -25,7 +25,7 @@ experience:
   - title: Lead, Technology & Innovation 
     company: Teck Resources Ltd.
     company_url: ''
-    company_logo: teck-resources
+    company_logo: teck_logo_RGB_REVERSE
     location: Vancouver, BC
     date_start: '2018-12-01'
     date_end: ''
