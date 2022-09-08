@@ -24,6 +24,7 @@ all_day: false
 event: Alaska Miners Association Fall Convention
 event_url: http://www.alaskaminers.org/copy-of-2018-ama-fbx-convention-pre-3
 publishDate: 2022-08-18T16:37:26.305Z
+share: false
 draft: false
 featured: false
 image:
