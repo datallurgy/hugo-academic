@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal #personal
+  # theme_day: minimal #personal
   theme_night: minimal #personal
   font: minimal
   font_size: L
@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Personal
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal CV website for Allyson Stoll.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
