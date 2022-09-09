@@ -27,7 +27,7 @@ publishDate: 2022-08-18T16:37:26.305Z
 featured: false
 url_slides: https://www.dropbox.com/s/3s6v2hgi1s8bpzb/4_%20Stoll%202017%20AMA%20VisioFroth_Final%20%28Read-Only%29.pdf?dl=0
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 share: false
