@@ -19,6 +19,7 @@ summary: Hackathon Challenge for Unearthed Vancouver 2017
 publishDate: 2022-09-09T16:06:57.495Z
 featured: false
 url_slides: https://drive.google.com/file/d/1wjSqS5qGUzNHgHn9DRNoV-zXFZh95ZLx/view?usp=sharing
+share: false
 image:
   filename: featured.jpg
   focal_point: Smart
