@@ -26,4 +26,6 @@ image:
 ---
 Currently, flotation circuit performance is driven by measured on-stream assays supported by operator observations of froth characteristics. Operator observations are subjective in nature (Is the froth slow? Dry? Too dark?) and inexperienced operators are typically unsure of their observations. In addition, operators cannot watch the circuit constantly as they have other duties to perform. The installed froth cameras allow for continuous monitoring of the cells and clear objective measurements of color, texture, collapse rate and other variables. Optimization of the flotation circuit could lead to USD 4.6 million revenue annually for every 0.5% increase in recovery at $1.10/lb. of zinc.
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MU8fRAEnaeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
