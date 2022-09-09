@@ -1,8 +1,6 @@
 ---
 title: "Improving Concentration Performance Through Big Data: A Process and
   Lessons Learned"
-summary: >-
-  Presentation for Digitization in Mining North America 2022.
 abstract: >-
   Case Study: Improving Big Concentration Performance through Data
     + Understanding the project background and goals
@@ -13,16 +11,17 @@ abstract: >-
 location: Toronto, ON
 date: 2022-08-31T09:40:00.000Z
 date_end: 2022-08-31T10:10:00.000Z
-all_day: false
+all_day: true
 event: Digitization in Mining North America
 event_url: https://mininginnovationnetwork.swoogo.com/DMNA22
-url_slides: https://drive.google.com/file/d/1bTkg2vKEBzcTn4vrwegzK3j-jBnpbLD0/view?usp=sharing
-publishDate: 2022-09-05T22:51:17.323Z
 draft: false
+summary: Presentation for Digitization in Mining North America 2022.
+publishDate: 2022-09-05T22:51:17.323Z
 featured: false
-share: false
+url_slides: https://drive.google.com/file/d/1bTkg2vKEBzcTn4vrwegzK3j-jBnpbLD0/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
+share: false
 ---
