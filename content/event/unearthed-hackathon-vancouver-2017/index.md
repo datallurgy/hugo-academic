@@ -1,6 +1,6 @@
 ---
-summary: Hackathon Challenge: Flotation Optimization Using Froth Characteristics
 title: Unearthed Hackathon Vancouver 2017
+summary: Hackathon Challenge: Flotation Optimization Using Froth Characteristics
 abstract: Froth cameras have become a common technology in flotation circuits to
   collect key performance data in the minerals processing industry.  The
   information they collect can be used to optimize circuit performance and metal
