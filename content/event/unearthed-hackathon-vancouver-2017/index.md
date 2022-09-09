@@ -1,6 +1,6 @@
 ---
-title: Unearthed Hackathon Vancouver 2017
-summary: 'Hackathon Challenge: Flotation Optimization Using Froth Characteristics'
+title: 'Hackathon Challenge: Flotation Optimization Using Froth Characteristics'
+summary: Unearthed Hackathon Vancouver 2017
 abstract: Froth cameras have become a common technology in flotation circuits to
   collect key performance data in the minerals processing industry.  The
   information they collect can be used to optimize circuit performance and metal
@@ -13,7 +13,7 @@ location: Vancouver, BC
 date: 2017-09-29T16:06:57.475Z
 date_end: 2017-10-01T08:00:00.000Z
 all_day: true
-event: Unearthed Hackathon Vancouver 2017
+event: Unearthed Vancouver 2017
 event_url: app.humyn.ai/challenges/7/overview
 url_slides: https://drive.google.com/file/d/1wjSqS5qGUzNHgHn9DRNoV-zXFZh95ZLx/view?usp=sharing
 publishDate: 2022-09-09T16:06:57.495Z
