@@ -11,7 +11,7 @@ abstract: >-
 location: Toronto, ON
 date: 2022-08-31T09:40:00.000Z
 date_end: 2022-08-31T10:10:00.000Z
-all_day: true
+all_day: false
 event: Digitization in Mining North America
 event_url: https://mininginnovationnetwork.swoogo.com/DMNA22
 draft: false
