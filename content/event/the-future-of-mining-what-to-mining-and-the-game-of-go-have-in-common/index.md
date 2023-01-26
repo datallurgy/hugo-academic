@@ -1,7 +1,6 @@
 ---
 title: "The Future of Mining: What to Mining and the Game of Go Have in Common?"
 abstract: |-
-  “What do mining and the game of Go have in common?”
   + Teck’s ESG goals and outlook (2030 & 2050) 
   + Where Teck ranks for ESG among competitors 
   + Dynamic Systems Thinking for Decarbonization 
