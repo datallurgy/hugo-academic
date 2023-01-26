@@ -12,7 +12,7 @@ date_end: 2022-09-26T17:06:00.000Z
 all_day: true
 event: Future of Mining Americas 2022
 event_url: https://americas.future-of-mining.com/fomamericas/en/page/home
-url_pdf: https://drive.google.com/file/d/11SHrqCM7yT6LBXsxQuk1R_AKS0Nf3hJ7/view?usp=sharing
+url_slides: https://drive.google.com/file/d/11SHrqCM7yT6LBXsxQuk1R_AKS0Nf3hJ7/view?usp=sharing
 publishDate: 2023-01-26T18:04:02.005Z
 draft: false
 featured: false
