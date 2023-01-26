@@ -20,6 +20,7 @@ publishDate: 2022-09-05T22:51:17.323Z
 featured: false
 url_slides: https://drive.google.com/file/d/1bTkg2vKEBzcTn4vrwegzK3j-jBnpbLD0/view?usp=sharing
 url_pdf: https://drive.google.com/file/d/1uN9xqU2z987UL6J0g2vAYcc1qV9Hj9Iu/view?usp=sharing
+url_video: https://drive.google.com/file/d/1VEsX58LbaokbUSOoQwx7ThzOm7I7mLcr/view?usp=sharing
 image:
   filename: featured.jpg
   focal_point: Smart
