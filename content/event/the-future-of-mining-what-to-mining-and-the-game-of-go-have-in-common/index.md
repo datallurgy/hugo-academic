@@ -1,10 +1,6 @@
 ---
 title: "The Future of Mining: What to Mining and the Game of Go Have in Common?"
-abstract: |-
-  + Teck’s ESG goals and outlook (2030 & 2050) 
-  + Where Teck ranks for ESG among competitors 
-  + Dynamic Systems Thinking for Decarbonization 
-  + Zero-GHG Haul Evolution Using Deep Reinforcement Learning
+abstract: Presentation for Carbon Tracking and Reporting Canada 2022
 location: Calgary, AB
 date: 2022-11-09T18:16:57.929Z
 date_end: 2022-11-09T18:18:00.000Z
@@ -19,3 +15,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
++ Teck’s ESG goals and outlook (2030 & 2050) 
++ Where Teck ranks for ESG among competitors 
++ Dynamic Systems Thinking for Decarbonization 
++ Zero-GHG Haul Evolution Using Deep Reinforcement Learning
