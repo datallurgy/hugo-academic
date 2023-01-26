@@ -8,6 +8,7 @@ all_day: true
 event: Carbon Tracking and Reporting Canada 2022
 event_url: https://carbontrackingandreporting.energyconferencenetwork.com/canada
 url_slides: https://drive.google.com/file/d/1wr4jiCvnVAzU0PmmVXRovzk2HTdatP0M/view?usp=sharing
+url_video: https://drive.google.com/file/d/1WlAr3Zpj1jyItSsReLkVF2ltJYifya_N/view?usp=sharing
 publishDate: 2023-01-26T18:16:57.945Z
 draft: false
 featured: false
