@@ -36,7 +36,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Allyson is a highly motivated mining and mineral processing engineer with 11 years of experience with a background primarily in comminution and flotation optimization utilizing advanced process controls and expert systems. She completed a Masters of Data Science from the University of British Columbia to hone and utilize her data science skills along with subject matter expertise to transform the mining industry and is currently focused on obtaining a PhD in Mining Engineering from the Norman B. Keevil Institute of Mining Engineering from the University of British Columbia. 
+Allyson is a highly motivated mining and mineral processing engineer with 11 years of experience with a background primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
+
+She completed a Masters of Data Science from the University of British Columbia to hone and utilize her data science skills along with subject matter expertise to transform the mining industry and is currently focused on obtaining a PhD in Mining Engineering from the Norman B. Keevil Institute of Mining Engineering from the University of British Columbia. 
 
 Her research interests are concentrated on decentralized task allocation for haulage fleets and the use of advanced simulation and optimization for data-driven decision support. 
 
