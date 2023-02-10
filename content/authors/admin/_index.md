@@ -24,6 +24,8 @@ social:
 organizations:
   - name: Teck Resources, Ltd.
     url: https://www.teck.com
+  - name: The University of British Columbia
+    url: https://mining.ubc.ca/research-group/laboratory-for-accelerated-discovery-in-resource-engineering-adre-lab/
 education:
   courses:
     - course: Masters of Data Science
