@@ -45,8 +45,8 @@ experience:
   - title: Simulation Manager 
     company: Stream Systems
     company_url: ''
-    company_logo: Stream-Logo-Transparent_Master
-    location: Vancouver, BC
+    company_logo: Stream_logo_white
+    location: Calgary, AB
     date_start: '2023-08-21'
     date_end: ''
     description: |2-
