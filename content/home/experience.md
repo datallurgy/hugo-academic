@@ -23,6 +23,16 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Sessional Instructor 
+    company: The University of British Columbia
+    company_url: ''
+    company_logo: ubc-crest-white
+    location: Vancouver, BC
+    date_start: '2023-09-05'
+    date_end: ''
+    description: |2-
+        The primary tenants of this role are solving business problems by understanding the processes behind the data and developing agent-based simulation models and engines from research/proof-of-concept through to final product delivery.
+  
   - title: Simulation Manager 
     company: Stream Systems
     company_url: ''
