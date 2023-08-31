@@ -22,13 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+   - title: Simulation Manager 
+    company: Stream Systems
+    company_url: ''
+    company_logo: teck_logo_RGB_REVERSE
+    location: Vancouver, BC
+    date_start: '2023-08-21'
+    date_end: ''
+    description: |2-
+        The primary tenants of this role are solving business problems by understanding the processes behind the data and developing agent-based simulation models and engines from research/proof-of-concept through to final product delivery.
+  
   - title: Lead, Technology & Innovation 
     company: Teck Resources Ltd.
     company_url: ''
     company_logo: teck_logo_RGB_REVERSE
     location: Vancouver, BC
     date_start: '2018-12-01'
-    date_end: ''
+    date_end: '2023-07-21'
     description: |2-
         * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
         * Developed a material movement simulation for deep reinforcement learning to optimize a long-range technology deployment strategy with multiple competing objectives.
