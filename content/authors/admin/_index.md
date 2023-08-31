@@ -17,10 +17,10 @@ social:
     link: https://github.com/datallurgy
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/allyson-stoll/
+    link: https://www.linkedin.com/in/allysonstoll/
 organizations:
-  - name: Teck Resources, Ltd.
-    url: https://www.teck.com
+  - name: Stream Systems
+    url: https://www.streamsystems.ca/
   - name: The University of British Columbia
     url: https://mining.ubc.ca/research-group/laboratory-for-accelerated-discovery-in-resource-engineering-adre-lab/
 education:
@@ -35,9 +35,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Allyson is a highly motivated mining and mineral processing engineer with 11 years of experience with a background primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
+Allyson is a highly motivated mining and mineral processing engineer with 12 years of experience with a background primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
 
-She completed a Masters of Data Science from the University of British Columbia to hone and utilize her data science skills and subject matter expertise to transform the mining industry and is currently focused on obtaining a PhD in Mining Engineering from the Norman B. Keevil Institute of Mining Engineering at the University of British Columbia.
+She completed a Masters of Data Science from the University of British Columbia to hone and utilize her data science skills and subject matter expertise to transform the mining industry.
 
 Her research interests are concentrated on decentralized task allocation for haulage fleets and the use of advanced simulation and optimization for data-driven decision support. 
 
