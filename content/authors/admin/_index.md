@@ -22,7 +22,7 @@ organizations:
   - name: Stream Systems
     url: https://www.streamsystems.ca/
   - name: The University of British Columbia
-    url: https://mining.ubc.ca/research-group/laboratory-for-accelerated-discovery-in-resource-engineering-adre-lab/
+    url: https://mining.ubc.ca/
 education:
   courses:
     - course: Masters of Data Science
