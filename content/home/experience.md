@@ -36,7 +36,7 @@ experience:
   - title: Simulation Manager 
     company: Stream Systems
     company_url: ''
-    company_logo: ubc-crest-white
+    company_logo: Stream_logo_white
     location: Vancouver, BC
     date_start: '2023-08-21'
     date_end: ''
