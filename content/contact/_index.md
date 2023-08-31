@@ -38,7 +38,7 @@ header:
 					<p class="text-title-company">Stream Systems</p>
 				</div>
 				<div class="col" style='padding: 0;'>
-					<img src="assets/teck-resources-logo.png" style='margin-top: 0; margin-bottom: 0;'>
+					<img src="assets/Stream-Logo_White-2.png" style='margin-top: 0; margin-bottom: 0;'>
 				</div>
 			</div>
 		</div>
