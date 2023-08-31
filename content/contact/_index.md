@@ -121,7 +121,7 @@ header:
         <div class="row">
             <div class="col"></div>
             <div class="col is-8">
-                    <a href="https://www.linkedin.com/in/allysonstoll" class='btn btn-contact btn-lrg btn-block' style='font-size: 16px;'> <i class="fa-brands fa-linkedin" style='color: white;'></i> LinkedIn </a>
+                    <a href="https://www.linkedin.com/in/allysonstoll" class='btn btn-contact btn-lrg btn-block' style='font-size: 16px; color: #F58420'> <i class="fa-brands fa-linkedin" style='color: white;'></i> LinkedIn </a>
             </div>
             <div class="col"></div>
         </div>
