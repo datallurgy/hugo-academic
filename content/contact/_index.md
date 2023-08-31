@@ -34,8 +34,8 @@ header:
 			<div class="row name-title-company">
 				<div class="col is-6">
 					<p class="text-name">Allyson Stoll</p>
-					<p class="text-title-company">Lead, Technology & Innovation</p>
-					<p class="text-title-company">Teck Resources Ltd.</p>
+					<p class="text-title-company">Simulation Manager</p>
+					<p class="text-title-company">Stream Systems</p>
 				</div>
 				<div class="col" style='padding: 0;'>
 					<img src="assets/teck-resources-logo.png" style='margin-top: 0; margin-bottom: 0;'>
@@ -45,14 +45,14 @@ header:
 	</section>
 
 <section class='secondary-info'>
-	<a href="mailto:allyson.stoll@teck.com">
+	<a href="mailto:astoll@streamsystems.ca">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col">
 					  <i class="fa-solid fa-envelope"></i>
 				</div>
 				<div class="col is-8">
-						<p class="text-detail">allyson.stoll@teck.com</p>
+						<p class="text-detail">astoll@streamsystems.ca</p>
 				</div>
 				<div class="col">
             <i class="fa-solid fa-angle-right"></i>
@@ -81,14 +81,14 @@ header:
 </section>
   
 <section class="secondary-info">
-    <a href="http://www.teck.com">
+    <a href="http://www.streamsystems.ca">
         <div class="container-fluid">
             <div class="row">
                 <div class="col">
                     <i class="fa-regular fa-globe"></i>
                 </div>
                 <div class="col is-8">
-                    <p class="text-detail">www.teck.com</p>
+                    <p class="text-detail">www.streamsystems.ca</p>
                 </div>
                 <div class="col">
                     <i class="fa-solid fa-angle-right"></i>
@@ -99,14 +99,14 @@ header:
 </section>
   
 <section class="secondary-info">
-    <a href = "https://www.google.com.sg/maps/place/Teck+Resources+Limited/@49.2858435,-123.1206839,17z/data=!3m2!4b1!5s0x54867180f89c05ff:0x1f68adcb4034b2df!4m5!3m4!1s0x5486718225021d8b:0xfe06796c328ba59e!8m2!3d49.28584!4d-123.1184952">
+    <a href = "https://www.google.com.sg/maps/place/Stream+Systems/@51.0499098,-114.0667229,17z/data=!3m2!4b1!5s0x53716ffc8f043a51:0x2ceecb4fd7d8a09d!4m6!3m5!1s0x53716ff94e90c69b:0x65fb828b1eaa4b80!8m2!3d51.0499098!4d-114.0641426!16s%2Fg%2F11rgh78mt5?entry=ttu">
         <div class="container-fluid">
             <div class="row">
                 <div class="col">
                     <i class="fa-solid fa-location-dot"></i>
                 </div>
                 <div class="col is-8">
-                    <p class="text-detail">3300-550 Burrard St.<br>Vancouver, BC V6C 0B3<br>Canada</p>
+                    <p class="text-detail">140 4 Ave SW<br>Suite 2620<br>Calgary, AB T2P 3N3<br>Canada</p>
                 </div>
                 <div class="col">
                     <i class="fa-solid fa-angle-right"></i>
