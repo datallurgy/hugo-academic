@@ -33,8 +33,8 @@ experience:
     description: |2-
         MINE 350: Modeling and Simulation (3 credits)
         This course introduces several modeling and simulation techniques used to design or modify mining and mineral processing systems. Students will obtain hand-on experience with the simulation program AnyLogic.
-
-    The main learning outcome is an understanding of the principles and limitations of available analytical and discrete methods that are useful in engineering practice. Other specific learning outcomes are listed below:
+        \n
+        The main learning outcome is an understanding of the principles and limitations of available analytical and discrete methods that are useful in engineering practice. Other specific learning outcomes are listed below:
         * How to use common probability models to characterize and model random behavior and uncertainty in mineral resources systems or industrial systems in general 
         * How to apply queuing models to the design of haulage fleets and other material handling systems
         * The ability to develop continuous models of industrial processes
