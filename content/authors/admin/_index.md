@@ -41,4 +41,4 @@ She completed a Masters of Data Science from the University of British Columbia 
 
 Her research interests are concentrated on decentralized task allocation for haulage fleets and the use of advanced simulation and optimization for data-driven decision support. 
 
-{{< icon name="download" pack="fas" >}} View her {{< staticref "https://drive.google.com/file/d/1YUyqzN2Q2q_s2NBp5jpjUCHSB3F5QUKZ/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View her {{< staticref "https://drive.google.com/file/d/1GzfAdQd6AdV6obST2Ec3cH-rFl_0d3Wp/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
