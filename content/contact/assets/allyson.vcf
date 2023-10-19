@@ -2,11 +2,10 @@ BEGIN:VCARD
 VERSION:3.0
 N:Stoll;Allyson
 FN:Allyson Stoll 
-TITLE:Lead, Technology & Innovation
-ORG:Teck Resources Ltd.
-URL:www.teck.com
-EMAIL;type=INTERNET;type=WORK;type=pref:allyson.stoll@teck.com
-TEL;type=work;type=VOICE:+1 604 699 4064
+TITLE:Simulation Manager
+ORG:Stream Systems
+URL:www.streamsystems.ca
+EMAIL;type=INTERNET;type=WORK;type=pref:astoll@streamsystems.ca
 TEL;type=iPhone;type=VOICE:+1 236 985 4170
-ADR;type=WORK;type=pref:;;3300-550 Burrard St.;Vancouver;BC;V6C 0B3;Canada
+ADR;type=WORK;type=pref:;;2620-140 4 Ave SW;Calgary;AB;T2P 3N3;Canada
 END:VCARD
