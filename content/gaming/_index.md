@@ -24,9 +24,10 @@ header:
 				<div class="col is-10">
 					<img class="game-splash" src="assets/RoRR.jpg" alt="Risk of Rain Returns">
 				</div>
+        <div class="col"></div>
 			</div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid" style='margin-top: -10px;'>
         <div class="row">
           <div class="col"></div>
             <div class="col is-9">
