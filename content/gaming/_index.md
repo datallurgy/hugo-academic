@@ -24,7 +24,6 @@ header:
 				<div class="col is-10">
 					<img class="game-splash" src="assets/RoRR.jpg" alt="Risk of Rain Returns">
 				</div>
-				<div class="col"></div>
 			</div>
     </div>
     <div class="container-fluid">
