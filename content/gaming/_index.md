@@ -53,13 +53,13 @@ header:
 		<div class="container">
       <div class='row'>
 				<div class="col"></div>
-				<div class="col is-6">
+				<div class="col is-10">
 					<img class="game-splash" src="assets/TurnipBoy.jpg" alt="Turnip Boy Commits Tax Evasion">
 				</div>
 				<div class="col"></div>
 			</div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid" style='margin-top: -1rem;'>
         <div class="row">
           <div class="col"></div>
             <div class="col is-9">
