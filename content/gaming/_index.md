@@ -29,13 +29,13 @@ header:
     </div>
 	</section>
 
- <section class="bottom" style='margin-top: 10px;'>
+ <section class="bottom" style='margin-top: 5px;'>
     <div class="container-fluid">
         <div class="row">
             <div class="col"></div>
             <div class="col is-8">
-                   <div style="position: relative; padding-bottom: 62.5%; height: 0;">
-          <iframe src="https://www.loom.com/embed/17c8a5929c2940b58bf44e4a7ba0160d?sid=5ec6b5c5-c47a-49ea-921c-58b978e03c28?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 95%; height: 95%;">
+              <div style="position: relative; padding-bottom: 62.5%; height: 0;">
+          <iframe src="https://www.loom.com/embed/17c8a5929c2940b58bf44e4a7ba0160d?sid=5ec6b5c5-c47a-49ea-921c-58b978e03c28?hide_owner=true&hide_share=true&hide_title=true&hideEmbedTopBar=true" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 50%; left: 50%; width: 95%; height: 95%;">
           </iframe>
           </div>
             </div>
