@@ -27,7 +27,7 @@ header:
         <div class="col"></div>
 			</div>
     </div>
-    <div class="container-fluid" style='margin-top: -10px;'>
+    <div class="container-fluid" style='margin-top: -1rem;'>
         <div class="row">
           <div class="col"></div>
             <div class="col is-9">
