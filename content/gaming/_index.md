@@ -28,8 +28,6 @@ header:
 			</div>
     </div>
 	</section>
-  
-
 	<section class="banner" style='margin-top: 10px;'>
 		<div class="container">
       <div class='row'>
