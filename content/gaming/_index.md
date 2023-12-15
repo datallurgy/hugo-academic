@@ -41,7 +41,7 @@ header:
             </div>
             <div class="col"></div>
         </div>
-      <div class="row" style='margin-top: 10px;'>
+      <div class="row" style='margin-top: 5%;'>
             <div class="col"></div>
             <div class="col is-7">
                     <a href="https://www.loom.com/share/3a0d22d1c18641bf99faed49b4491c15?sid=656b781c-a4c7-4d0a-b992-257a2b54cc2c" class='btn btn-contact btn-lrg btn-block' style='font-size: 16px;'> <i class="fa-solid fa-download" style='color: white;'></i> Commando </a>
