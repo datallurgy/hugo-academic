@@ -29,7 +29,7 @@ header:
     </div>
 	</section>
 
- <section class="bottom" style='margin-top: 5px;'>
+ <section class="bottom" style='margin-top: 0px;'>
     <div class="container-fluid">
         <div class="row">
             <div class="col"></div>
