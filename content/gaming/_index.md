@@ -28,21 +28,30 @@ header:
 			</div>
     </div>
 	</section>
-  
-  <section class="bottom" style='margin-top: 10px;'>
+
+ <section class="bottom" style='margin-top: 10px;'>
     <div class="container-fluid">
-       <div class="row">
-          <div class="col"></div>
-          <div class="col is-8">
-          <div style="position: relative; padding-bottom: 62.5%; height: 0;">
+        <div class="row">
+            <div class="col"></div>
+            <div class="col is-8">
+                   <div style="position: relative; padding-bottom: 62.5%; height: 0;">
           <iframe src="https://www.loom.com/embed/17c8a5929c2940b58bf44e4a7ba0160d?sid=5ec6b5c5-c47a-49ea-921c-58b978e03c28" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
           </iframe>
           </div>
-          <div class="col"></div>
-    </div>
+            </div>
+            <div class="col"></div>
+        </div>
       <div class="row">
             <div class="col"></div>
             <div class="col is-8">
+                    <a href="https://www.loom.com/share/3a0d22d1c18641bf99faed49b4491c15?sid=656b781c-a4c7-4d0a-b992-257a2b54cc2c" class='btn btn-contact btn-lrg btn-block' style='font-size: 16px;'> <i class="fa-solid fa-download" style='color: white;'></i> Commando </a>
+            </div>
+            <div class="col"></div>
+        </div>
+    </div>
+</section>
+  
+ 
                     <a href="https://www.loom.com/share/3a0d22d1c18641bf99faed49b4491c15?sid=656b781c-a4c7-4d0a-b992-257a2b54cc2c" class='btn btn-contact btn-lrg btn-block' style='font-size: 16px;'> <i class="fa-solid fa-download" style='color: white;'></i> Commando </a>
             </div>
             <div class="col"></div>
