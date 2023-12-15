@@ -21,7 +21,7 @@ header:
 		<div class="container">
       <div class='row'>
 				<div class="col"></div>
-				<div class="col is-6">
+				<div class="col is-9">
 					<img class="game-splash" src="assets/RoRR.jpg" alt="Risk of Rain Returns">
 				</div>
 				<div class="col"></div>
