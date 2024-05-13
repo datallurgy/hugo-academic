@@ -40,7 +40,7 @@ header:
           -->
 				</div>
 				<div class="col" style='padding: 0;'>
-					<img src="assets/Stream-Logo_White-2.png" style='margin-top: 0; margin-bottom: 0;'>
+					<img src="assets/green + white.png" style='margin-top: 0; margin-bottom: 0;'>
 				</div>
 			</div>
 		</div>
