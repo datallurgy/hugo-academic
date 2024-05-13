@@ -34,8 +34,10 @@ header:
 			<div class="row name-title-company">
 				<div class="col is-6">
 					<p class="text-name">Allyson Stoll</p>
-					<p class="text-title-company">Simulation Manager</p>
+          <p class="text-title-company">Metallurgist</p>
+          <!--
 					<p class="text-title-company">Stream Systems</p>
+          -->
 				</div>
 				<div class="col" style='padding: 0;'>
 					<img src="assets/Stream-Logo_White-2.png" style='margin-top: 0; margin-bottom: 0;'>
@@ -52,7 +54,7 @@ header:
 					  <i class="fa-solid fa-envelope"></i>
 				</div>
 				<div class="col is-8">
-						<p class="text-detail">astoll@streamsystems.ca</p>
+						<p class="text-detail">allyson@datallurgy.com</p>
 				</div>
 				<div class="col">
             <i class="fa-solid fa-angle-right"></i>
@@ -81,14 +83,14 @@ header:
 </section>
   
 <section class="secondary-info">
-    <a href="http://www.streamsystems.ca">
+    <a href="http://www.datallurgy.com">
         <div class="container-fluid">
             <div class="row">
                 <div class="col">
                     <i class="fa-regular fa-globe"></i>
                 </div>
                 <div class="col is-8">
-                    <p class="text-detail">www.streamsystems.ca</p>
+                    <p class="text-detail">www.datallurgy.com</p>
                 </div>
                 <div class="col">
                     <i class="fa-solid fa-angle-right"></i>
@@ -99,14 +101,14 @@ header:
 </section>
   
 <section class="secondary-info">
-    <a href = "https://www.google.com.sg/maps/place/Stream+Systems/@51.0499098,-114.0667229,17z/data=!3m2!4b1!5s0x53716ffc8f043a51:0x2ceecb4fd7d8a09d!4m6!3m5!1s0x53716ff94e90c69b:0x65fb828b1eaa4b80!8m2!3d51.0499098!4d-114.0641426!16s%2Fg%2F11rgh78mt5?entry=ttu">
+    <a href = "https://www.google.com/maps/place/Vancouver,+BC/@49.2577062,-123.2063044,12z/data=!3m1!4b1!4m6!3m5!1s0x548673f143a94fb3:0xbb9196ea9b81f38b!8m2!3d49.2827291!4d-123.1207375!16zL20vMDgwaDI?entry=ttu">
         <div class="container-fluid">
             <div class="row">
                 <div class="col">
                     <i class="fa-solid fa-location-dot"></i>
                 </div>
                 <div class="col is-8">
-                    <p class="text-detail">140 4 Ave SW<br>Suite 2620<br>Calgary, AB T2P 3N3<br>Canada</p>
+                    <p class="text-detail">Vancouver, BC<br>Canada</p>
                 </div>
                 <div class="col">
                     <i class="fa-solid fa-angle-right"></i>
