@@ -29,7 +29,7 @@ experience:
     company_logo: ubc-crest-white
     location: Vancouver, BC
     date_start: '2023-09-05'
-    date_end: ''
+    date_end: '2023-12-20'
     description: |2-
         MINE 350: Modeling and Simulation (3 credits).
         
@@ -48,7 +48,7 @@ experience:
     company_logo: Stream-Logo-Transparent_Master
     location: Calgary, AB
     date_start: '2023-08-21'
-    date_end: ''
+    date_end: '2024-03-18'
     description: |2-
         The primary tenants of this role are solving business problems by understanding the processes behind the data and developing agent-based simulation models and engines from research/proof-of-concept through to final product delivery.
   
