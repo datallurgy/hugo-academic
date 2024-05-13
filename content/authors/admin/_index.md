@@ -1,6 +1,6 @@
 ---
 title: Allyson Stoll
-role: Lead, Technology & Innovation
+role: ""
 avatar_filename: avatar.png
 bio: My research interests include advanced artificial intelligence applications
   in mining and mineral processing.
@@ -19,8 +19,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/allysonstoll/
 organizations:
-  - name: Stream Systems
-    url: https://www.streamsystems.ca/
   - name: The University of British Columbia
     url: https://mining.ubc.ca/
 education:
@@ -35,10 +33,10 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Allyson is a highly motivated mining and mineral processing engineer with 12 years of experience with a background primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
+Allyson is a highly motivated mining and mineral processing engineer with 13 years of experience with a background primarily in comminution and flotation optimization utilizing advanced process controls and expert systems.
 
 She completed a Masters of Data Science from the University of British Columbia to hone and utilize her data science skills and subject matter expertise to transform the mining industry.
 
 Her research interests are concentrated on decentralized task allocation for haulage fleets and the use of advanced simulation and optimization for data-driven decision support. 
 
-{{< icon name="download" pack="fas" >}} View her {{< staticref "https://drive.google.com/file/d/1GzfAdQd6AdV6obST2Ec3cH-rFl_0d3Wp/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} View her {{< staticref "https://drive.google.com/file/d/1VRFmASXs7vFZJZttcEM3DNjvgOyJ-fKK/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
