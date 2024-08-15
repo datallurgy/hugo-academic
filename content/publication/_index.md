@@ -2,10 +2,6 @@
 title: Publications
 cms_exclude: true
 
-filters: 
-    publication_type: "8"
-    exclude_featured: false
-
 # View.
 #   1 = List
 #   2 = Compact
