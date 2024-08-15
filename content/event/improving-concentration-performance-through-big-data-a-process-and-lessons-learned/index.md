@@ -1,4 +1,5 @@
 ---
+category: talk
 title: "Improving Concentration Performance Through Big Data: A Process and
   Lessons Learned"
 abstract: >-
