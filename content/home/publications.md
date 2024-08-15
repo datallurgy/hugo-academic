@@ -12,6 +12,8 @@ weight: 90  # Order that this section will appear.
 page_type: "publication"
 
 content:
+  folders:
+    - publication
   filters: 
     publication_type: "8"
 
