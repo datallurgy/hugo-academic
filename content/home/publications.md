@@ -10,10 +10,7 @@ active: true  # Activate this widget? true/false
 weight: 90  # Order that this section will appear.
 
 page_type: "publication"
-filters: 
-    publication_type: 8
-    exclude_featured: false
-  
+
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
