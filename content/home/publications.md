@@ -5,7 +5,7 @@ active: true
 page_type: publication
 widget_id: publications
 headless: true
-weight: 20
+weight: 30
 title: Publications
 content:
   folders:
