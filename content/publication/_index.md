@@ -2,6 +2,10 @@
 title: Publications
 cms_exclude: true
 
+filters: 
+    publication_type: "8"
+    exclude_featured: false
+
 # View.
 #   1 = List
 #   2 = Compact
@@ -13,5 +17,4 @@ view: 4
 header:
   caption: ''
   image: ''
-url_pdf: https://patents.google.com/patent/CA3220392A1/
 ---
