@@ -1,6 +1,6 @@
 ---
-widget: pages
-widget_id: patents
+widget: publications
+widget_id: publications
 headless: true
 weight: 80
 title: Patents
