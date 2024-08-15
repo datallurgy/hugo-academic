@@ -3,7 +3,7 @@ widget: publications
 widget_id: publications
 headless: true
 weight: 80
-title: Patents
+title: Publications
 active: false
 design:
   columns: ""
