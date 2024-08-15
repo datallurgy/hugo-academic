@@ -11,9 +11,8 @@ weight: 90  # Order that this section will appear.
 
 page_type: "publication"
 
-filters: 
+filter: 
     publication_type: "8"
-    exclude_featured: false
 
   # Toggle between the various page layout types.
   #   1 = List
