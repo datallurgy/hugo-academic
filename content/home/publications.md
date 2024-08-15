@@ -1,5 +1,5 @@
 ---
-widget: publications
+widget: publication
 widget_id: patents
 headless: true
 weight: 80
