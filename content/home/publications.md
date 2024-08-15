@@ -4,7 +4,7 @@ widget_id: patents
 headless: true
 weight: 80
 title: Publications
-active: true
+active: false
 design:
   columns: ""
   background:
