@@ -12,6 +12,7 @@ weight: 90  # Order that this section will appear.
 page_type: "publication"
 
 filters: 
+    category: 'event'
     publication_type: 8
 
   # Toggle between the various page layout types.
