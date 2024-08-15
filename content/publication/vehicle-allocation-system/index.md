@@ -8,6 +8,7 @@ authors:
 abstract: ""
 draft: false
 featured: false
+url_pdf: https://patents.google.com/patent/CA3220392A1/
 image:
   filename: featured
   focal_point: Smart
