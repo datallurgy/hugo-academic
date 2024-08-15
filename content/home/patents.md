@@ -3,6 +3,7 @@ widget: pages
 widget_id: patents
 headless: true
 weight: 80
+title: Patents
 active: true
 design:
   columns: "1"
