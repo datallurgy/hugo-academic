@@ -1,4 +1,5 @@
 ---
+category: patent
 title: Vehicle Allocation System
 subtitle: CA3220392A1
 publication_types:
