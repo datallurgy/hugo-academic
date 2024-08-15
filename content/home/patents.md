@@ -6,7 +6,7 @@ weight: 80
 title: Patents
 active: false
 design:
-  columns: "1"
+  columns: ""
   background:
     text_color_light: false
     image_darken: 0
