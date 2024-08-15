@@ -8,6 +8,7 @@ authors:
 abstract: ""
 draft: false
 featured: false
+url_project: https://patents.google.com/patent/CA3220392A1/
 url_pdf: https://patentimages.storage.googleapis.com/1f/0f/05/8864c47f3093bf/CA3220392A1.pdf
 image:
   filename: featured
