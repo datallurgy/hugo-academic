@@ -13,4 +13,5 @@ view: 4
 header:
   caption: ''
   image: ''
+url_pdf: https://patents.google.com/patent/CA3220392A1/
 ---
