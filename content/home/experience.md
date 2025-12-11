@@ -2,6 +2,24 @@
 widget: experience
 date_format: Jan 2006
 experience:
+  - title: Director of Operations
+    company: AIDE Canada
+    company_url: ""
+    company_logo:
+    location: Richmond, BC
+    date_start: 2025-07-14
+    date_end: 
+    description: >-2
+        * Establish trust, stabilize day-to-day operations, identify operational gaps, and position AIDE with a clear path for organizational longevity and success by strengthening operational resiliency.
+  - title: Senior Process Consultant
+    company: Ausenco
+    company_url: ""
+    company_logo:
+    location: Vancouver, BC
+    date_start: 2024-07-29
+    date_end: 2025-07-14
+    description: >-2
+        * Managed the artificial intelligence co-op program, including developing curricula, interviewing candidates, securing team placements and mentoring participants as internal program coordinator; coached Athena Pathways mentees, recruited other mentors.
   - title: Sessional Instructor
     company: The University of British Columbia
     company_url: ""
