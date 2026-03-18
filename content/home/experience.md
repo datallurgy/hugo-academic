@@ -8,7 +8,7 @@ experience:
     company_logo:
     location: Richmond, BC
     date_start: 2025-07-14
-    date_end: 
+    date_end: 2026-03-11
     description: >-2
         * Establish trust, stabilize day-to-day operations, identify operational gaps, and position AIDE with a clear path for organizational longevity and success by strengthening operational resiliency.
   - title: Senior Process Consultant
